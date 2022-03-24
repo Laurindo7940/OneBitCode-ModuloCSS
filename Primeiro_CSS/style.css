@@ -1,0 +1,14 @@
+.moon{
+    color: white;
+}
+
+h1{
+    color: purple;
+    border: 2px dashed green
+}
+
+body{
+    background-image: url(https://files.tecnoblog.net/meiobit/wp-content/uploads/2021/03/spacex-falcon-heavy-busters-landing.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

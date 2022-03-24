@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://www.hardware.com.br/static/wp/2021/04/16/space-x-nasa.jpg?fm=pjpg&ixlib=php-3.3.0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: white;
+}
+
+h3{
+    color: #f1c40f;
+}
+
+li{
+    color: white;
+}
+
+h2{
+    border: 3px solid #9c7f0b;
+    background-color: #f1c40f;
+}
+
+.astro{
+    color: #e74c3c;
+}

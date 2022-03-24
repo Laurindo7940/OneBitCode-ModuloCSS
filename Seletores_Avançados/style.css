@@ -1,0 +1,14 @@
+li:nth-last-of-type(odd){
+    color: orange;
+}
+
+h1 + h4{
+    border: 3px dashed;
+}
+
+a[href="a"]{
+    color: purple;
+}
+
+
+

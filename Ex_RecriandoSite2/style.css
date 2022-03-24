@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.post-container .post{
+    padding: 20px;
+}
+
+.post-container{
+    background-color: #f8f0f0;
+    width: 70%;
+    height: 70%;
+    margin: 50px auto 50px auto;
+    border-radius: 15px;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.671);
+}
+
+.post-container:hover{
+    width: 75%;
+    height: 75%;
+    font-size: 17px;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.post-container .date{
+    color: #008080;
+    font-family: 'Roboto', sans-serif;
+}
+
+.post-container div.post-content{
+    width: 90%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+}
